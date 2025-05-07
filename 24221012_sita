@@ -1,0 +1,31 @@
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
+ */
+package pkg24221012_sita;
+
+/**
+ *
+ * @author sitap
+ */
+public class Main {
+
+    /**
+     * @param args the command line arguments
+     */
+    public static void main(String[] args) {
+    int nim = 24221012 ; 
+    String nama = "Sita";
+    String alamat = "Dukuh kec ciasem kab subang" ;
+    String TTL = "Subang,07 juni 2006";
+        System.out.println("Biodata");
+        
+         System.out.println("NIM = "+nim);
+          System.out.println("Nama = "+nama);
+           System.out.println("ALAMAT= "+alamat);
+          System.out.println("Tempat tanggal lahir = "+TTL);
+          
+    }
+    
+}
